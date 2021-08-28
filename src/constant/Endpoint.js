@@ -1,0 +1,1 @@
+export const API_LIST_NEWS = process.env.REACT_APP_URL + '/portaljson';
